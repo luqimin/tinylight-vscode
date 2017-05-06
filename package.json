@@ -1,0 +1,22 @@
+{
+    "name": "tiny-light",
+    "displayName": "Tiny Light",
+    "description": "Imported from h5builder and some minor modifications were applied",
+    "version": "0.0.1",
+    "publisher": "luqimin",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tiny Light",
+                "uiTheme": "vs",
+                "path": "./themes/tiny.json"
+            }
+        ]
+    }
+}
