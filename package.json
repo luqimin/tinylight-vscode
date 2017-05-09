@@ -2,7 +2,7 @@
     "name": "tiny-light",
     "displayName": "Tiny Light",
     "description": "Imported from h5builder and some minor modifications were applied",
-    "version": "0.1.0",
+    "version": "0.5.0",
     "publisher": "luqimin",
     "repository": {
         "type": "git",
