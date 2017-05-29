@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.6.1 | 2017.05.11
+- add screenshot
+
 ## 0.6.0 | 2017.05.10
 - add icon
 

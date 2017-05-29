@@ -2,7 +2,7 @@
     "name": "tiny-light",
     "displayName": "Tiny Light",
     "description": "Imported from h5builder and some minor modifications were applied",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "publisher": "luqimin",
     "repository": {
         "type": "git",
@@ -25,10 +25,10 @@
         ]
     },
     "keywords": [
-        "tiny",
-        "tinylight",
         "tiny light",
         "solarized",
-        "theme"
+        "health",
+        "h5builder",
+        "green"
     ]
 }
