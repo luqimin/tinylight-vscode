@@ -1,8 +1,8 @@
 {
     "name": "tiny-light",
     "displayName": "Tiny Light",
-    "description": "Imported from h5builder and some minor modifications were applied",
-    "version": "0.6.1",
+    "description": "BEST FOR YOUR EYES!",
+    "version": "0.7.1",
     "publisher": "luqimin",
     "repository": {
         "type": "git",
@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.0.0"
     },
-    "icon": "icon.svg",
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],

@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.0 | 2017.07.25
+- add workbench button color
+- use jetbrain darcula theme as the integrated console theme 
+
 ## 0.6.1 | 2017.05.11
 - add screenshot
 
