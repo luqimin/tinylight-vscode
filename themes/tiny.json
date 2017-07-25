@@ -29,14 +29,40 @@
 		"activityBar.foreground": "#584c27",
 		"activityBar.dropBackground": "#eee8d5",
 		"activityBarBadge.background": "#b58900",
+		"button.background": "#b58900",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#cc9a00",
+		"notification.buttonBackground": "#b58900",
+		"notification.buttonForeground": "#ffffff",
+		"notification.buttonHoverBackground": "#cc9a00",
 		"statusBar.foreground": "#586e75",
 		"statusBar.background": "#eee8d5",
+		"statusBar.debuggingForeground": "#fffbe8",
+		"statusBar.debuggingBackground": "#499504",
 		"statusBar.noFolderBackground": "#eee8d5",
+		"statusBarItem.hoverBackground": "#eae0c0",
+		"statusBarItem.activeBackground": "#ded0a0",
 		"statusBarItem.prominentBackground": "#ddd6c1",
-		"statusBarItem.prominentHoverBackground": "#ddd6c199"
+		"terminal.background": "#2b2b2b",
+		"terminal.foreground": "#bbbbbb",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#5597ef",
+		"terminal.ansiBrightBlack": "#686868",
+		"terminal.ansiBrightBlue": "#7faff4",
+		"terminal.ansiBrightCyan": "#6fdada",
+		"terminal.ansiBrightGreen": "#74fa61",
+		"terminal.ansiBrightMagenta": "#fe9cff",
+		"terminal.ansiBrightRed": "#fe8885",
+		"terminal.ansiBrightWhite": "#f1f1f1",
+		"terminal.ansiBrightYellow": "#fffb00",
+		"terminal.ansiCyan": "#39cbcc",
+		"terminal.ansiGreen": "#097e00",
+		"terminal.ansiMagenta": "#fe76ff",
+		"terminal.ansiRed": "#fd6c67",
+		"terminal.ansiWhite": "#bbbbbb",
+		"terminal.ansiYellow": "#cdcb00"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
 				"foreground": "#3e4b53",
 				"background": "#fffbe8"
