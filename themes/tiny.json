@@ -8,6 +8,7 @@
 		"editor.lineHighlightBackground": "#e8dfc4ff",
 		"editor.selectionBackground": "#eee8d5",
 		"editorWhitespace.foreground": "#404040",
+		"editorIndentGuide.background": "#f7f2e4",
 		"editorWidget.background": "#eee8d5",
 		"editorGroupHeader.tabsBackground": "#d9d2c2",
 		"list.focusBackground": "#dfca8866",

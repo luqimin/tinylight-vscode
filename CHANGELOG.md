@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.2 | 2017.07.26
+- add editor indent lines color
+
 ## 0.7.0 | 2017.07.25
 - add workbench button color
 - use jetbrain darcula theme as the integrated console theme 
