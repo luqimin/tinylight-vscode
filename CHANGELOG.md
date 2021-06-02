@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.8.0 | 2021.06.02
+- add terminal theme
+
 ## 0.7.2 | 2017.07.26
 - add editor indent lines color
 

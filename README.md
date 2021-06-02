@@ -10,8 +10,4 @@
 
 ![ScreenShot](https://i0.letvimg.com/lc04_fe/201705/11/14/03/s1.png)
 
-### For more information
-
-* [tinyRen](http://tiny.ren)
-
 **Enjoy!**
