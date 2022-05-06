@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.9.0 | 2022.05.06
+- change some base colors
+- change `editor.selectionBackground` to optimize Jupyter editor display effect
+
 ## 0.8.0 | 2021.06.02
 - add terminal theme
 

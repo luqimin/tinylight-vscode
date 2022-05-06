@@ -2,12 +2,19 @@
 	"name": "Tiny Light",
 	"type": "light",
 	"colors": {
+		/* base */
+		"focusBorder": "#bd8500",
+		/* editor */
 		"editor.foreground": "#499504ff",
 		"editor.background": "#fffbe8",
 		"editorCursor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#e8dfc4ff",
-		"editor.selectionBackground": "#eee8d5",
-		"editorWhitespace.foreground": "#404040",
+		"editor.selectionBackground": "#dcd6c5",
+		"editor.selectionHighlightBorder": "#E5C07B",
+		"editor.selectionHighlightBackground": "#fdf2db",
+		"editor.wordHighlightBackground": "#efe7d5",
+		"editor.wordHighlightStrongBackground": "#efdbb9",
+		"editorWhitespace.foreground": "#a8a8a8",
 		"editorWidget.background": "#eee8d5",
 		"editorGroupHeader.tabsBackground": "#d9d2c2",
 		"editorIndentGuide.background": "#f7f2e4",
@@ -47,7 +54,6 @@
 		"statusBarItem.hoverBackground": "#eae0c0",
 		"statusBarItem.activeBackground": "#ded0a0",
 		"statusBarItem.prominentBackground": "#ddd6c1",
-
 		/* terminal */
 		"terminal.background": "#fffbe8",
 		"terminal.foreground": "#616161",
@@ -66,9 +72,11 @@
 		"terminal.ansiRed": "#e6848a",
 		"terminal.ansiWhite": "#606060",
 		"terminal.ansiYellow": "#a8cb8f",
-		"terminal.selectionBackground": "#eee8d4"
+		"terminal.selectionBackground": "#eee8d4",
+		/* window */
 	},
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"settings": {
 				"foreground": "#3e4b53",
 				"background": "#fffbe8"
@@ -293,7 +301,6 @@
 				"foreground": "#2aa198"
 			}
 		},
-
 		{
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
