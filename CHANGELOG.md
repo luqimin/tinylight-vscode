@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.0 | 2024.04.23
+- change some colors
+
 ## 0.9.0 | 2022.05.06
 - change some base colors
 - change `editor.selectionBackground` to optimize Jupyter editor display effect
