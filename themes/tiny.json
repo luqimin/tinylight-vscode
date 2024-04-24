@@ -230,8 +230,12 @@
 			}
 		},
 		{
-			"name": "Support",
-			"scope": "support",
+			"name": "Library class/type",
+			"scope": [
+				"support",
+				"support.type",
+				"meta.property-name"
+			],
 			"settings": {
 				"foreground": "#3c7a03ff"
 			}
@@ -337,12 +341,6 @@
 			],
 			"settings": {
 				"foreground": "#657B83"
-			}
-		},
-		{
-			"scope": "meta.property-name",
-			"settings": {
-				"foreground": "#3c7a03"
 			}
 		},
 		{
@@ -553,15 +551,6 @@
 			"scope": "punctuation.separator.continuation",
 			"settings": {
 				"foreground": "#D30102"
-			}
-		},
-		{
-			"name": "Library class/type",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#3C7A03"
 			}
 		},
 		{
