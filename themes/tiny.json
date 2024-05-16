@@ -200,7 +200,10 @@
 		},
 		{
 			"name": "Keyword Control",
-			"scope": "keyword.control",
+			"scope": [
+				"keyword.control",
+				"keyword.other.rust"
+			],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#577909"
