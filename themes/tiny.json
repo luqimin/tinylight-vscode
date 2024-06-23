@@ -56,7 +56,7 @@
 		"editorWhitespace.foreground": "#a8a8a880",
 		"editor.lineHighlightBackground": "#e8dfc490",
 		"editor.selectionBackground": "#dcd6c5cc",
-		"editor.selectionHighlightBorder": "#E5C07B",
+		"editor.selectionHighlightBorder": "#e5a67b",
 		"editor.selectionHighlightBackground": "#fdf2db",
 		"editor.wordHighlightBackground": "#efe7d577",
 		"editor.wordHighlightStrongBackground": "#efdbb977",
@@ -313,7 +313,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#e5c07b"
+				"foreground": "#a57800"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#E5C07B"
+				"foreground": "#e5a67b"
 			}
 		},
 		{
